@@ -8,7 +8,7 @@ if numero>0:
 
 elif numero==0:
     print("El numero no es ni positivo ni negativo")
-# Si se cumple el if se ejecuta, si no se va al elif y si no al else
+#Si se cumple el if se ejecuta, si no se va al elif y si no al else
 
 else:
     print("El numero que ingreso es negativo")
